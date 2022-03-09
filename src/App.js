@@ -16,7 +16,6 @@ function App() {
         <div className='modal-container'>
           <div className='header'>
             <div className='header-information'>
-              
               <div className='header-information--item'>
                 <img src={images} className='img-profile' alt='img-1'/>
                 <div className='access-granted'>
